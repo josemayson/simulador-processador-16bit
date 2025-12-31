@@ -1,4 +1,4 @@
-# Simulador-de-processador-em-C
+# Simulador-de-processador-16bits
 
 Projeto desenvolvido para a disciplina de **Arquitetura de Computadores**.
 
